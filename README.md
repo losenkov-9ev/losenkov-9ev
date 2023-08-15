@@ -1,4 +1,4 @@
-<h1 align='center'>< losenkov.dev /></h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=435&height=55&lines=%3Closenkov.dev+%2F%3E)](https://git.io/typing-svg)
 
 <div align="center">
 Привет, я <b>Вадим Лосенков</b> - <b>web-developer</b>!
