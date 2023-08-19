@@ -8,6 +8,7 @@
 
 ## 🌐 Медиа:
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=Telegram&logoColor=white)](https://t.me/losenkov_dev) [![VK](https://img.shields.io/badge/VK-%230077FF.svg?logo=VK&logoColor=white)](https://m.vk.com/losenkov.devv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i.crybaby) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/i.crybaby#0)
+<br />
 <i>В телеграме я отвечаю быстрее :)</i>
 
 
