@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&lines=%3Closenkov.dev+%2F%3E" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=6000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=%3Closenkov.dev+%2F%3E" alt="Typing SVG" /></a>
   <br />
 
 # 💫 Обо Мне:
