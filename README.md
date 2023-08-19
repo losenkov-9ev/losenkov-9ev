@@ -1,6 +1,5 @@
-<b align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=55&lines=%3Closenkov.dev+%2F%3E)](https://git.io/typing-svg)
-</b>
+
   <br />
 
 # 💫 Обо Мне:
