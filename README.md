@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=55&lines=%3Closenkov.dev+%2F%3E)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&lines=%3Closenkov.dev+%2F%3E" alt="Typing SVG" /></a>
 
   <br />
 
