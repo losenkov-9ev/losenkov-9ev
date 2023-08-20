@@ -1,4 +1,4 @@
-<a href="https://losenkov.dev/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=6000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=%3Closenkov.dev+%2F%3E" alt="Typing SVG" /></a>
+<a href="https://losenkov.dev/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=6000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=%3Closenkov.dev+%2F%3E" alt="Typing SVG" /></a>
   <br />
 
 # 💫 Обо Мне:
