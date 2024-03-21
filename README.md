@@ -1,63 +1,29 @@
-<a href="https://losenkov.dev/" style="display: flex; max-width: 100%; width: 100%; justify-content: center;" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=6000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=%3Closenkov.dev+%2F%3E" alt="Typing SVG" /></a>
-<br />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=6000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=%3Closenkov.dev+%2F%3E)](https://losenkov.dev/)
 
 ## 💫 Обо Мне:
 
-👋 Привет, я <b>Вадим Лосенков</b> - frontend-developer!<br>
-🔭 Я отработал 3+ года на фрилансе frontend разработчиком и сейчас ищу работу в комании. Хорошие работы есть в открытом доступе для потанциального работодателя<br><br>
-🧠 С умом подхожу к разработке, анализирую задачу перед выполнением, во время разработки придерживаюсь принципов SOLID и dry/kiss<br>
-🎯 Внедряю в свои проекты последние технологии из мира frontend'а<br>
+👋 Привет, меня зовут **Вадим Лосенков**, и я frontend-разработчик!<br>
+🔭 Я проработал более 3 лет на фрилансе в качестве frontend-разработчика и в настоящее время ищу работу в компании. У меня есть хорошие работы, доступные для ознакомления для потенциального работодателя.<br><br>
+🧠 Я подхожу к разработке с умом, анализирую задачу перед выполнением и придерживаюсь принципов SOLID и DRY/KISS во время разработки.<br>
+🎯 Внедряю в свои проекты последние технологии из мира frontend'а.<br>
 
 ## 💻 Мой Стэк:
 
-<table>
-<tr>
-    <th>Верстка</th>
-    <td style="display: flex; gap: 6px;">
-    <div style="height: 20px;display: inline-block;border-radius: 20px; overflow: hidden;">
-<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
-</div>
-    <div style="height: 20px;display: inline-block;border-radius: 20px; overflow: hidden;">
-<img src="https://img.shields.io/badge/Pug-A86454.svg?style=for-the-badge&logo=Pug&logoColor=white"/>
-</div>
-    <div style="height: 20px;display: inline-block;border-radius: 20px; overflow: hidden;">
-<img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white"/>
-</div>
-    <div style="height: 20px;display: inline-block;border-radius: 20px; overflow: hidden;">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-</div>
-    </td>
-  </tr>
-  <tr>
-    <th>Frontend</th>
-    <td style="display: flex; gap: 6px;"><div style="height: 20px;display: inline-block;border-radius: 20px; overflow: hidden;">
-<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
-</div>
-<div style="height: 20px;display: inline-block;border-radius: 20px; overflow: hidden;">
-<img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white"/>
-</div>
-<div style="height: 20px;display: inline-block;border-radius: 20px; overflow: hidden;">
-<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-</div>
-</div></td>
-  </tr>
-  <tr>
-    <th>Backend</th>
-    <td style="display: flex; gap: 6px;">
-    <div style="height: 20px;display: inline-block;border-radius: 20px; overflow: hidden;">
-<img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white"/>
-</div>
-</div>
-    <div style="height: 20px;display: inline-block;border-radius: 20px; overflow: hidden;">
-<img src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
-</div>
-    <div style="height: 20px;display: inline-block;border-radius: 20px; overflow: hidden;">
-<img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</div>
-</div>
-</td>
-  </tr>
-</table>
+### Верстка
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white)
+- ![Pug](https://img.shields.io/badge/Pug-A86454.svg?style=flat&logo=Pug&logoColor=white)
+- ![Sass](https://img.shields.io/badge/Sass-CC6699.svg?style=flat&logo=Sass&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black)
+
+### Frontend
+- ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black)
+- ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=flat&logo=Redux&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=TypeScript&logoColor=white)
+
+### Backend
+- ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=PHP&logoColor=white)
+- ![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=flat&logo=WordPress&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white)
 
 ## 🌐 Медиа:
 
@@ -70,5 +36,3 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=losenkov-9ev&icon=5&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
